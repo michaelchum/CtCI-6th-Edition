@@ -1,5 +1,15 @@
 bin/
-.project## Ignore Visual Studio temporary files, build results, and
 
-#JavaScript
+# Visual Studio
+.project
+
+# Mac OS X
+.DS_Store
+
+# JavaScript
 javascript/node_modules
+
+# Python
+*.pyc
+
+
